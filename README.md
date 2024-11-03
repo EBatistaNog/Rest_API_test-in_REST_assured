@@ -9,14 +9,6 @@ Este projeto é um exemplo de como realizar testes automatizados em APIs REST us
 - **JUnit**: Framework de testes unitários para estruturar e executar os testes.
 - **Gson**: Biblioteca para manipulação de JSON.
 
-## Estrutura do Projeto
-
-- **src/main/java**: Contém classes principais e utilitárias.
-  - **core**: Configurações base para os testes.
-  - **utils**: Classes utilitárias, como `DataUtils` para manipulação de datas.
-- **src/test/java**: Contém as classes de teste.
-  - **tests**: Testes organizados por funcionalidades.
-
 ## Pré-requisitos
 
 - **Java 8 ou superior**: Certifique-se de que o Java esteja instalado e configurado corretamente no seu ambiente.
