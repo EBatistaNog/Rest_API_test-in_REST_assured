@@ -1,15 +1,14 @@
-# Projeto de Testes de API - Rest-Assured e JUnit
+# API Testing Project - Rest-Assured and JUnit
 
-Este projeto é um exemplo de como realizar testes automatizados em APIs REST usando as bibliotecas **Rest-Assured** e **JUnit**. O objetivo é garantir que os endpoints da API estejam funcionando corretamente por meio de requisições e validações automatizadas.
+## Overview
+This project is an example of how to perform automated tests on REST APIs using the Rest-Assured and JUnit libraries. The goal is to ensure that the API endpoints are functioning correctly through automated requests and validations.
 
-## Tecnologias Utilizadas
+## Technologies Used
+- **Java**: The main programming language for the project.
+- **Rest-Assured**: A library that simplifies creating HTTP requests and validating responses.
+- **JUnit**: A unit testing framework for structuring and executing tests.
+- **Gson**: A library for handling JSON.
 
-- **Java**: Linguagem principal do projeto.
-- **Rest-Assured**: Biblioteca para facilitar a criação de requisições HTTP e validações de respostas.
-- **JUnit**: Framework de testes unitários para estruturar e executar os testes.
-- **Gson**: Biblioteca para manipulação de JSON.
-
-## Pré-requisitos
-
-- **Java 8 ou superior**: Certifique-se de que o Java esteja instalado e configurado corretamente no seu ambiente.
-- **Maven**: Usado para gerenciar as dependências do projeto e facilitar a execução dos testes.
+## Prerequisites
+- **Java 8 or higher**: Make sure Java is installed and properly configured in your environment.
+- **Maven**: Used to manage project dependencies and simplify test execution.
